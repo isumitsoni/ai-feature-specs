@@ -1,6 +1,6 @@
 # AI Feature Specs
 
-Production-ready AI feature spec templates for PMs and founders — with evaluation, safety, and rollout built in.
+Production-ready AI feature spec templates for PMs and founders - with evaluation, safety, and rollout built in.
 
 **Maintained by [Sumit Soni](https://github.com/isumitsoni) · [LinkedIn](https://linkedin.com/in/isumitsoni)**
 
